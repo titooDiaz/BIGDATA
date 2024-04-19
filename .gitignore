@@ -2,3 +2,7 @@
 #   Los TOKENS  de acceso a la API de Twitter son personales, por eso no subo mis tokens, recuerda que debes crear tus propios.
 ficheros/Cap3/.env
 ficheros/Cap4/.env
+
+
+data/Cap5/kmeans_pipeline.pkl
+data/Cap5/kmeans.pkl
