@@ -39,3 +39,6 @@
 > ` pip install pyspark `
 > Abriremos una nueva terminal para comprobar que su instalacion fue exitosa:
 > ` pyspark `
+>
+> RESULTADO:
+> ![alt text](<resultado.png>)
