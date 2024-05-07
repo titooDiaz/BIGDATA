@@ -31,6 +31,10 @@
 > ``` export PYSPARK_PYTHON=python3 ```
 > Donde spark home deberemos cambiarlo por la ubicacion donde se encuentra nuestro archivo spark!
 > 
+> Cuando hayamos finalizado de agregarar las rutas (paths), cargamos el fichero .profile escribiendo sobre la línea de comando:
+>
+> ` source ~/.bash_profile `
+>
 > Finalmente instlaremos su version en python:
 > ` pip install pyspark `
 > Abriremos una nueva terminal para comprobar que su instalacion fue exitosa:
