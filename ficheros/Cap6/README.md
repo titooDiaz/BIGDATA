@@ -3,7 +3,7 @@
 </p>
 
 
-*** PASOS A SEGUIR PARA INSTALAR PYSPARK EN LINUX ***
+# PASOS A SEGUIR PARA INSTALAR PYSPARK EN LINUX
 <br>
 instalacion de java:
 <br>
