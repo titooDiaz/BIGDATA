@@ -55,12 +55,6 @@ para eso colocaremos los sigueintes comandos:
 <br>
 
 ```linux
-cd spark 
-```
-
-<br>
-
-```linux
 nano ~/.bash_profile 
 ```
 <br>
@@ -74,6 +68,14 @@ export SPARK_HOME=/ruta/al/directorio/spark
 export PATH=$SPARK_HOME/bin:$PATH 
 export PYSPARK_PYTHON=python3 
 ```
+
+El directorio de la carpeta lo peudes encontrar:
+
+```linux
+cd spark
+pwd
+```
+y copiar lo que devulve la consola!
 
 <br>
 
