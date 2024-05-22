@@ -6,3 +6,5 @@ ficheros/Cap4/.env
 
 data/Cap5/kmeans_pipeline.pkl
 data/Cap5/kmeans.pkl
+
+data/Cap7/regression_model
